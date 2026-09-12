@@ -1,0 +1,6 @@
+{
+  "name": "MEECHAAT",
+  "description": "WhatsApp-style messaging app with chats, status updates, voice/video calling, communities, channels, and instant messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
